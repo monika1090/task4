@@ -1,0 +1,43 @@
+.dom
+{
+	text-align:center;
+	color:red;
+	font-size:25px;
+}
+.space
+{
+	margin-top:40px;
+}
+.did
+{
+	margin-left:-22px;
+	font-style:bold;
+	font-size:20px;
+	color:black;
+}
+.do
+{
+	margin-top:15px;
+	margin-left:10px;
+}
+.big
+{
+	font-size:20px;
+	margin-left:90px;
+	margin-top: 5px;
+
+}
+.rock
+{
+	margin-top:10px;
+	color:red;
+	text-align:center;
+}
+.cut
+{
+	background-color:grey;
+}
+.dit
+{
+	text-align:center;
+}
