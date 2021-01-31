@@ -164,9 +164,9 @@ font-family: "TIMES NEW ROMAN"
 	@media (min-width: 310px) and (max-width:766px){
 	.at
 	{
-	height:8%;
-	width:8%;
-		margin-top:2%;
+	height:5%;
+	width:5%;
+		margin-top:0;
 		
 	}
 	.kitu
