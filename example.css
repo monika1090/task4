@@ -160,7 +160,8 @@ font-family: "TIMES NEW ROMAN"
 	}
 
 }
-@media only screen and (max-width:320px){
+
+	@media (min-width: 310px) and (max-width:765px){
 	.at
 	{
 		width:250%;
