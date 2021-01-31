@@ -16,7 +16,7 @@
 .logo
 {
 	height:25px;
-	width:15%;
+	width:30%;
 }
 .colo
 {
@@ -161,11 +161,11 @@ font-family: "TIMES NEW ROMAN"
 
 }
 
-	@media (min-width: 310px) and (max-width:766px){
+	@media (min-width:310px) and (max-width:766px){
 	.at
 	{
 		font-size:10px;
-		width:5%;
+		width:8%;
 		margin-top:1%;
 }
 	.kitu
