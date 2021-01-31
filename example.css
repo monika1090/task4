@@ -161,11 +161,11 @@ font-family: "TIMES NEW ROMAN"
 
 }
 
-	@media (min-width: 310px) and (max-width:765px){
+	@media (min-width: 310px) and (max-width:766px){
 	.at
 	{
-	height:10%;
-	width:10%;
+	height:8%;
+	width:8%;
 		margin-top:2%;
 		
 	}
